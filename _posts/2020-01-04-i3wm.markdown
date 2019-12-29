@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Introduction to i3wm"
+date:   2019-12-31 16:07:30 -0600
+categories: Productivity
+---
+TODO
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+[mason-jar-amazon]: https://amazon.com/
